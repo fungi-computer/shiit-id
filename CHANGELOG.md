@@ -4,4 +4,4 @@
 
 ### Patch Changes
 
-- Initial publish of the open-source @shiit/\* and @fungi-computer/chat packages.
+- Initial publish of the open-source @shiit/\* and @fungi.computer/chat packages.
