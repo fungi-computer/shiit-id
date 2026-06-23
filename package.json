@@ -1,0 +1,35 @@
+{
+  "name": "@shiit/id",
+  "version": "0.1.0",
+  "description": "Minimal nanoid wrapper using Crockford's base32 alphabet",
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "nanoid": "^5.1.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.2"
+  },
+  "keywords": [
+    "nanoid",
+    "id",
+    "uuid"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT"
+}
