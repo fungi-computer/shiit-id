@@ -1,6 +1,6 @@
 {
   "name": "@shiit/id",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Minimal nanoid wrapper using Crockford's base32 alphabet",
   "type": "module",
   "main": "./src/index.ts",
